@@ -1,4 +1,4 @@
-# Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-
+# Knowledge Graphs and Data Integration in Database Conferences (2019)
 
 ### VLDB 2019
 1. User Guidance for Efficient Fact Checking [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)]

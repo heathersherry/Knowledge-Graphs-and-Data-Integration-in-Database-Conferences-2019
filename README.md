@@ -23,6 +23,18 @@ Some interesting papers in other topics:
 5. Efficient Algorithms for Densest Subgraph Discovery [[PDF](http://www.vldb.org/pvldb/vol12/p1719-fang.pdf)]
 6. Exploring Change – A New Dimension of Data Analytics [[PDF](http://www.vldb.org/pvldb/vol12/p85-bleifuß.pdf)]
 
+### KDD 2019
+1. Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks [[Paper](https://arxiv.org/pdf/1905.08865.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)]
+2. KGAT: Knowledge Graph Attention Network for Recommendation [[Paper](https://arxiv.org/pdf/1905.07854.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/kgat-knowledge-graph-attention-network-for-recommendation)]
+3. Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems [[Paper](https://arxiv.org/pdf/1905.04413.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/knowledge-aware-graph-neural-networks-with-label-smoothness-regularization-)]
+4. The Role of “Condition”: A Novel Scientific Knowledge Graph Representation and Construction Model [[Paper](https://dl.acm.org/citation.cfm?id=3292500.3330942), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/the-role-of-condition-a-novel-scientific-knowledge-graph-representation-and)]
+5. Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts[[Paper](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/universal-representation-learning-of-knowledge-bases-by-jointly-embedding-i)]
+6. AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation [[Paper](https://dl.acm.org/citation.cfm?doid=3292500.3330705), applied science track]
+7. Constructing High Precision Knowledge Bases with Subjective and Factual Attributes [[Paper](https://arxiv.org/pdf/1905.12807.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/constructing-high-precision-knowledge-bases-with-subjective-and-factual-att), applied science track]
+8. Towards Knowledge-Based Personalized Product Description Generation in E-commerce [[Paper](https://arxiv.org/pdf/1903.12457.pdf), applied science track]
+9. How to Invest my Time: Lessons from HITL Entity Extraction [[Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/how-to-invest-my-time-lessons-from-hitl-entity-extraction), applied science track]
+10. OAG: Toward Linking Large-scale Heterogeneous Entity Graphs [[Paper](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf), applied science track]
+
 ### SIGMOD 2019
 1. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)]
 2. HoloDetect: Few-Shot Learning for Error Detection [[PDF](https://arxiv.org/pdf/1904.02285.pdf)]
@@ -62,17 +74,5 @@ Some interesting papers in other topics:
 7. Adaptive Dynamic Bipartite Graph Matching: A Reinforcement Learning Approach [[Paper](https://www.ntu.edu.sg/home/c.long/paper/19-ICDE-AdaptiveMatching.pdf)]
 8. RecovDB: accurate and efficient missing blocks recovery for large time series [[Paper](https://exascale.info/assets/pdf/recovdb19.pdf), demo]
 9. AI Pro: Data Processing Framework for AI Models [[PDF](http://www.cs.utah.edu/~deb/assets/pub/aipro-icde19.pdf), demo]
-
-### KDD 2019
-1. Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks [[Paper](https://arxiv.org/pdf/1905.08865.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)]
-2. KGAT: Knowledge Graph Attention Network for Recommendation [[Paper](https://arxiv.org/pdf/1905.07854.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/kgat-knowledge-graph-attention-network-for-recommendation)]
-3. Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems [[Paper](https://arxiv.org/pdf/1905.04413.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/knowledge-aware-graph-neural-networks-with-label-smoothness-regularization-)]
-4. The Role of “Condition”: A Novel Scientific Knowledge Graph Representation and Construction Model [[Paper](https://dl.acm.org/citation.cfm?id=3292500.3330942), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/the-role-of-condition-a-novel-scientific-knowledge-graph-representation-and)]
-5. Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts[[Paper](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/universal-representation-learning-of-knowledge-bases-by-jointly-embedding-i)]
-6. AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation [[Paper](https://dl.acm.org/citation.cfm?doid=3292500.3330705), applied science track]
-7. Constructing High Precision Knowledge Bases with Subjective and Factual Attributes [[Paper](https://arxiv.org/pdf/1905.12807.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/constructing-high-precision-knowledge-bases-with-subjective-and-factual-att), applied science track]
-8. Towards Knowledge-Based Personalized Product Description Generation in E-commerce [[Paper](https://arxiv.org/pdf/1903.12457.pdf), applied science track]
-9. How to Invest my Time: Lessons from HITL Entity Extraction [[Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/how-to-invest-my-time-lessons-from-hitl-entity-extraction), applied science track]
-10. OAG: Toward Linking Large-scale Heterogeneous Entity Graphs [[Paper](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf), applied science track]
 
 

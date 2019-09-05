@@ -24,13 +24,13 @@ Some interesting papers in other topics:
 6. Exploring Change – A New Dimension of Data Analytics [[PDF](http://www.vldb.org/pvldb/vol12/p85-bleifuß.pdf)]
 
 ### SIGMOD 2019
-1. Answering Why-questions by Exemplars in Attributed Graphs [[PDF](https://eecs.wsu.edu/~qsong/Files/paper/SIGMOD2019.pdf)]
 2. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)]
 3. HoloDetect: Few-Shot Learning for Error Detection [[PDF](https://arxiv.org/pdf/1904.02285.pdf)]
 4. Entity Matching Meets Data Science: A Progress Report from the Magellan Project [[PDF](http://pages.cs.wisc.edu/~anhai/papers1/magellan-sigmod19.pdf), industrial track]
 5. Automatically Generating Interesting Facts from Wikipedia Tables [[PDF](https://dl.acm.org/citation.cfm?id=3314043), industrial track]
 
 Some interesting papers in other topics:
+1. Answering Why-questions by Exemplars in Attributed Graphs [[PDF](https://eecs.wsu.edu/~qsong/Files/paper/SIGMOD2019.pdf)]
 1. DeepBase: Deep Inspection of Neural Networks [[PDF](https://arxiv.org/pdf/1808.04486.pdf)]
 2. Verifying Text Summaries of Relational Data Sets [[PDF](https://arxiv.org/pdf/1804.07686.pdf)]
 3. An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning [[PDF](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod19-cdbtune.pdf)]
@@ -39,5 +39,14 @@ Some interesting papers in other topics:
 6. PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs [[PDF](https://arxiv.org/pdf/1905.02354.pdf)]
 
 ### ICDE 2019
+2. Unsupervised String Transformation Learning for Entity Consolidation [[PDF](https://cs.uwaterloo.ca/~ilyas/papers/DengICDE2019.pdf)]
+3. 
+
+Some interesting papers in other topics:
+1. Answering Why-Questions for Subgraph Queries in Multi-Attributed Graphs [[PDF](https://eecs.wsu.edu/~qsong/Files/paper/ICDE19f.pdf)]
+1. A semi-supervised framework of clustering selection for de-duplication [[PDF](https://cs.uwaterloo.ca/~ilyas/papers/KushagraICDE2019.pdf)]
+2. An Efficient Parallel Keyword Search Engine on Knowledge Graphs [[PDF](https://www.comp.nus.edu.sg/~atung/publication/wikisearch.pdf)]
+
+
 
 

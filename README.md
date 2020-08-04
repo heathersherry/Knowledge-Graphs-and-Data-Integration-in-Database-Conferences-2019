@@ -75,4 +75,11 @@ Some interesting papers in other topics:
 8. RecovDB: accurate and efficient missing blocks recovery for large time series [[Paper](https://exascale.info/assets/pdf/recovdb19.pdf), demo]
 9. AI Pro: Data Processing Framework for AI Models [[PDF](http://www.cs.utah.edu/~deb/assets/pub/aipro-icde19.pdf), demo]
 
+### TKDE 2019
+1. Collective Keyword Query on a Spatial Knowledge Base
+2. Distribution-Aware Crowdsourced Entity Collection
+3. Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All
+4. Schema-Agnostic Progressive Entity Resolution
+5. Normalization of Duplicate Records from Multiple Sources
+
 

@@ -82,4 +82,5 @@ Some interesting papers in other topics:
 4. Schema-Agnostic Progressive Entity Resolution
 5. Normalization of Duplicate Records from Multiple Sources
 
-
+### VLDBJ 2019
+None
